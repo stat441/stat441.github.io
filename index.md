@@ -1,8 +1,8 @@
 #### Course Description
 
-This course will continue wrap up linear models and generalized linear models from STAT505, including a more detailed look at the underlying linear algebra. In addition, the course will present advanced regression techniques including hierarchical models.
+This course will provide an introduction to the design and analysis of experiments: topics include analysis of variance methods, matrix forms, multiple comparisons, fixed and random effects, factorial designs, balanced complete and incomplete blocking designs, designs with nested effects, and split plot designs
 
-To view a PDF of the course syllabus, follow this link: [PDF Syllabus](https://github.com/STAT506/syllabus/raw/main/syllabus2022.pdf).
+To view a PDF of the course syllabus, follow this link: [PDF Syllabus](https://github.com/STAT441/syllabus/raw/main/syllabus2022.pdf).
 
 ### Office Hours
 
