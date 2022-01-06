@@ -85,27 +85,23 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 ##### Weekly Materials
 
 - Suggested Reading:
-  - 505 materials _(optional)_
   
 - Weekly Notes: 
-  - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
  
 ##### Class Overview 
 
 - Wednesday January 19: Course Overview and Class Conversation
 
-- Friday January 21: Recap of STAT 505 (LMs)
+- Friday January 21: 
 
 ---
 
 #### Week Two: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS Chapter 15.1 - Chapter 15.2
+- Suggested Reading: 
 
 - Weekly Notes:   
-    - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
-    - [Count GLMs](https://github.com/STAT506/GLM_Lectures/raw/main/GLMs.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/GLMs.Rmd))
 
 ##### Class Overview
 
@@ -121,12 +117,8 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - ROS Chapter 15.3
-  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
 
 - Weekly Notes: 
-  - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
-  - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
 
 ##### Class Overview
 
@@ -142,13 +134,8 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
-  - Boik Chapter 7 & 8
 
 - Weekly Notes: 
-  - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
-  - [Mixture Models](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.pdf) ([RMD Source](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.Rmd))
-  - [Linear Algebra Notation](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.pdf) ([RMD Source](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.Rmd))
 
 ##### Class Overview
 
@@ -164,10 +151,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - Boik Chapter 11, Chapter 14, Chapter 16
-
-- Weekly Notes: [PDF](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
-
 
 ##### Class Overview
 
@@ -197,9 +180,9 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 #### Week Seven: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS CH. 16
 
-- Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
+- Weekly Notes: 
+
 
 ##### Class Overview
 
@@ -214,10 +197,8 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 #### Week Eight: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS CH. 22
 
 - Weekly Notes: 
-  - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
 
 
 ##### Class Overview
@@ -234,12 +215,8 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
-  - [BART Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031219-041110)
 
 - Weekly Notes:
-  - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
-  - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
 
 ##### Class Overview
 
@@ -254,10 +231,8 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 #### Week Ten: 
 
 ##### Weekly Materials
-- Suggested Reading:  ARM CH1 + CH 11
 
-- Weekly Notes: [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
-
+- Weekly Notes: 
 
 ##### Class Overview
 
@@ -273,9 +248,8 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - ARM CH12
-  - [Multilevel Model Tutorial w/ rstanarm](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
-- Weekly Notes: [Multilevel Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH12.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH12.Rmd))
+
+- Weekly Notes:
 
 ##### Class Overview
 
@@ -311,8 +285,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 - Suggested Reading: 
 
 - Weekly Notes: 
-  - [hierarchical glms](https://github.com/STAT506/hier_glms/blob/main/Hier_GLM.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/hier_glms/main/Hier_GLM.Rmd)) 
- 
 
 ##### Class Overview
 
@@ -327,13 +299,10 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 #### Week Fourteen: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS Ch 18 + ROS Ch 19.1 - 19.3  
+- Suggested Reading: 
 
 - Weekly Notes: 
-  - [causal inference & designed experiments](https://github.com/STAT506/Causal_Inference/blob/main/DesignedExp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/DesignedExp.Rmd))
-  - [causal inference & regression](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/CausualRegression.Rmd))
-
-
+- 
 ##### Class Overview
 
 - Monday April 18: 
@@ -350,9 +319,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 - Suggested Reading: 
 
 - Weekly Notes: 
-  - [More Causal Inference](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.pdf) ([RMD Source Code](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.Rmd))
-  - [Observational Studies](https://github.com/STAT506/Causal_Inference/blob/main/observationStudy.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/observationStudy.Rmd))
-
 
 ##### Class Overview
 
