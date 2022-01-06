@@ -10,52 +10,36 @@ Office hours are TBD
 
 ### Learning Outcomes:
 
-- To fit hierarchical models in R and SAS and interpret the results.
-- To fit models which take into account common forms of correlation.
-- To fit models which take into account common forms of non-constant variance.
-- To make inference using models which do not assume normality of residuals.
-- To fit Bayesian models using Markov Chain Monte Carlo algorithms and to interpret results.
-
-### Additional Topics
-
-- Understand the derivation of generalized least squares estimates.
-- To know when the Gauss-Markov theorem applies and what it provides.
-- To interpret results from Poisson and logistic regression models.
-- To understand when causal inference can be made from observational studies.
+Upon completing this course, a student will be able to:
+- Understand the design concepts of blocking, interactions, nesting, split-plotting, random effects, analysis of covariance, residual diagnostics, and when and how these concepts should be applied.
+- Use analysis of variance methods to analyze data from single and multiple factor experiments using statistical software.
+- Gain practical experience via proposing and running an experiment, and presenting the results in a statistical report and formal class presentation.
+- Learn theoretical results associated with estimation and statistical inference applied to the analysis of experimental data. (541 only)
 
 
 ### Prerequisites
 
-- Required: STAT 505
+- Required: STAT 411/STAT 511 and M 221 or M 333 or M 441
+
 
 ### Textbooks
 
-- _Regression and Other Stories_, by Andrew Gelman, Jennifer Hill, and Aki Vehtari 
-- _Data Analysis Using Regression and Multilevel/Hierarchical Models_, by Andrew Gelman and Jennifer Hill
-
-### Additional Resources
-Analysis, data visualization, and version control procedures will be implemented with:
-
-- R / R Studio
-- Git / Github
-
-For additional resources see:
-
-- R for Data Science, [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
-- Happy Git and GitHub for the useR,  [https://happygitwithr.com](https://happygitwithr.com)
+- _Design and Analysis of Experiments, 2nd Edition_, by Angela Dean, Daniel Voss, and Danel Draguljic, __Note free e-book (PDF) available through MSU library__
 
 ## Course Policies
 
 
 #### Grading Policy
 
-- **10%** of your grade will be determined by weekly quizzes. Students are allowed and encouraged to work with classmates on quiz assignments, but each student is required to submit their own quiz. All quizzes will be graded on pass / fail basis.
+- **10%** of your grade will be determined by regular quizzes. Students are allowed and encouraged to work with classmates on quiz assignments, but each student is required to submit their own quiz. All quizzes will be graded on pass / fail basis. Students can drop/skip one quiz during the semester.
 
-- **30%** of your grade will be determined by regular homework. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to submit their own homework. There will likely be  5 - 6 homework assignments over the course of the semester.
+- **10%** of your grade will be determined by regular labs. Labs will be completed in class and students are encouraged to work together during classes. All quizzes will be graded on pass / fail basis. Students can drop/skip one lab during the semester.
 
-- **30%** of your grade will be determined by a series of projects. There will be two or three projects over the course of the semester: likely one on GLMS, on for predictive modeling, and a final for hierarchical models.
+- **25%** of your grade will be determined by regular homework. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to submit their own homework. There will likely be 5 - 6 homework assignments over the course of the semester.
 
-- **30%** of your grade will be determined by a final exam.
+- **30%** of your grade will be determined by a one or more projects. 
+
+- **25%** of your grade will be determined by a final exam.
 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
@@ -93,14 +77,6 @@ In the event that the instructor is required to quarantine or if the university 
 
 Due to the ongoing pandemic and issues stemming from this, all course lectures will be recorded and made available as soon as possible.
 
-### Approximate Course Outline
-
-1. GLM Review
-2. Linear Algebra Section
-3. Design and Sample Size Decisions
-4. Advanced Regression Overview
-5. Hierarchical Models
-6. Causal Inference
 
 ## Course Schedule
 
