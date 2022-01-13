@@ -75,7 +75,7 @@ In the event that the instructor is required to quarantine or if the university 
 
 #### Recorded Lectures
 
-Due to the ongoing pandemic and issues stemming from this, all course lectures will be recorded and made available as soon as possible.
+Due to the ongoing pandemic and issues stemming from this, all course lectures will be recorded and made available through the course Microsoft Teams page.
 
 
 ## Course Schedule
