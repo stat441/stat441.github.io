@@ -1,84 +1,3 @@
-#### Course Description
-
-This course will provide an introduction to the design and analysis of experiments: topics include analysis of variance methods, matrix forms, multiple comparisons, fixed and random effects, factorial designs, balanced complete and incomplete blocking designs, designs with nested effects, and split plot designs
-
-To view a PDF of the course syllabus, follow this link: [PDF Syllabus](https://github.com/STAT441/syllabus/raw/main/syllabus2022.pdf).
-
-### Office Hours
-
-Office hours are TBD
-
-### Learning Outcomes:
-
-Upon completing this course, a student will be able to:
-- Understand the design concepts of blocking, interactions, nesting, split-plotting, random effects, analysis of covariance, residual diagnostics, and when and how these concepts should be applied.
-- Use analysis of variance methods to analyze data from single and multiple factor experiments using statistical software.
-- Gain practical experience via proposing and running an experiment, and presenting the results in a statistical report and formal class presentation.
-- Learn theoretical results associated with estimation and statistical inference applied to the analysis of experimental data. (541 only)
-
-
-### Prerequisites
-
-- Required: STAT 411/STAT 511 and M 221 or M 333 or M 441
-
-
-### Textbooks
-
-- _Design and Analysis of Experiments, 2nd Edition_, by Angela Dean, Daniel Voss, and Danel Draguljic, __Note free e-book (PDF) available through MSU library__
-
-## Course Policies
-
-
-#### Grading Policy
-
-- **10%** of your grade will be determined by regular quizzes. Students are allowed and encouraged to work with classmates on quiz assignments, but each student is required to submit their own quiz. All quizzes will be graded on pass / fail basis. Students can drop/skip one quiz during the semester.
-
-- **10%** of your grade will be determined by regular labs. Labs will be completed in class and students are encouraged to work together during classes. All quizzes will be graded on pass / fail basis. Students can drop/skip one lab during the semester.
-
-- **25%** of your grade will be determined by regular homework. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to submit their own homework. There will likely be 5 - 6 homework assignments over the course of the semester.
-
-- **30%** of your grade will be determined by a one or more projects. 
-
-- **25%** of your grade will be determined by a final exam.
-
-#### Collaboration
-University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
-
-In this class students are encouraged to collaborate on quizzes and homework assignments, but exams and projects should be completed without collaboration.
-
-####  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
-
-#### Disabilities Policy
-
-Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
-
-#### Masks
-
-WEARING MASKS IN CLASSROOMS IS REQUIRED Face coverings that cover the mouth and nose are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19. The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
-
-The complete details about MSU’s mask requirement can be found at https://www.montana.edu/health/coronavirus/index.html.
-
-These requirements from the Office of the Commissioner of Higher Education are detailed in the MUS Healthy Fall 2020 Guidelines, Appendix B.
-
-For more information: https://www.montana.edu/health/coronavirus/prevention/index.html
-
-Compliance with the face-covering protocol is expected. If a you do not comply with a classroom rule, you may be requested to leave class. Section 460.00 of the MSU Code of Student Conduct covers “disruptive student behavior.”
-
-#### Health-Related Class Absences
-
-Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill. MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness. In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made. Please note that documentation (a Doctor’s note) for medical excuses is not required. MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
-
-#### Course Communication
-
-In the event that the instructor is required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L and Microsoft Teams.
-
-#### Recorded Lectures
-
-Due to the ongoing pandemic and issues stemming from this, all course lectures will be recorded and made available through the course Microsoft Teams page.
-
-
-## Course Schedule
 
 #### Week One: Course Introduction
 
@@ -89,7 +8,7 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 - Wednesday January 19: Course Overview and Class Conversation
 
-- Friday January 21: 
+- Friday January 21: [Lab 1](https://github.com/stat441/Labs/blob/main/Lab1.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab1.Rmd))
 
 ---
 
@@ -352,6 +271,87 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 
 ---
+
+
+
+#### Course Description
+
+This course will provide an introduction to the design and analysis of experiments: topics include analysis of variance methods, matrix forms, multiple comparisons, fixed and random effects, factorial designs, balanced complete and incomplete blocking designs, designs with nested effects, and split plot designs
+
+To view a PDF of the course syllabus, follow this link: [PDF Syllabus](https://github.com/STAT441/syllabus/raw/main/syllabus2022.pdf).
+
+### Office Hours
+
+Office hours are TBD
+
+### Learning Outcomes:
+
+Upon completing this course, a student will be able to:
+- Understand the design concepts of blocking, interactions, nesting, split-plotting, random effects, analysis of covariance, residual diagnostics, and when and how these concepts should be applied.
+- Use analysis of variance methods to analyze data from single and multiple factor experiments using statistical software.
+- Gain practical experience via proposing and running an experiment, and presenting the results in a statistical report and formal class presentation.
+- Learn theoretical results associated with estimation and statistical inference applied to the analysis of experimental data. (541 only)
+
+
+### Prerequisites
+
+- Required: STAT 411/STAT 511 and M 221 or M 333 or M 441
+
+
+### Textbooks
+
+- _Design and Analysis of Experiments, 2nd Edition_, by Angela Dean, Daniel Voss, and Danel Draguljic, __Note free e-book (PDF) available through MSU library__
+
+## Course Policies
+
+
+#### Grading Policy
+
+- **10%** of your grade will be determined by regular quizzes. Students are allowed and encouraged to work with classmates on quiz assignments, but each student is required to submit their own quiz. All quizzes will be graded on pass / fail basis. Students can drop/skip one quiz during the semester.
+
+- **10%** of your grade will be determined by regular labs. Labs will be completed in class and students are encouraged to work together during classes. All quizzes will be graded on pass / fail basis. Students can drop/skip one lab during the semester.
+
+- **25%** of your grade will be determined by regular homework. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to submit their own homework. There will likely be 5 - 6 homework assignments over the course of the semester.
+
+- **30%** of your grade will be determined by a one or more projects. 
+
+- **25%** of your grade will be determined by a final exam.
+
+#### Collaboration
+University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
+
+In this class students are encouraged to collaborate on quizzes and homework assignments, but exams and projects should be completed without collaboration.
+
+####  Academic Misconduct
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+
+#### Disabilities Policy
+
+Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
+
+#### Masks
+
+WEARING MASKS IN CLASSROOMS IS REQUIRED Face coverings that cover the mouth and nose are required in all indoor spaces and all enclosed or partially enclosed outdoor spaces. MSU requires all students to wear face masks or cloth face coverings in classrooms, laboratories and other similar spaces where in-person instruction occurs. MSU requires the wearing of masks in physical classrooms to help mitigate the transmission of SARS-CoV-2, which causes COVID-19. The MSU community views the adoption of these practices as a mark of good citizenship and respectful care of fellow classmates, faculty, and staff.
+
+The complete details about MSU’s mask requirement can be found at https://www.montana.edu/health/coronavirus/index.html.
+
+These requirements from the Office of the Commissioner of Higher Education are detailed in the MUS Healthy Fall 2020 Guidelines, Appendix B.
+
+For more information: https://www.montana.edu/health/coronavirus/prevention/index.html
+
+Compliance with the face-covering protocol is expected. If a you do not comply with a classroom rule, you may be requested to leave class. Section 460.00 of the MSU Code of Student Conduct covers “disruptive student behavior.”
+
+#### Health-Related Class Absences
+
+Please evaluate your own health status regularly and refrain from attending class and other on-campus events if you are ill. MSU students who miss class due to illness will be given opportunities to access course materials online. You are encouraged to seek appropriate medical attention for treatment of illness. In the event of contagious illness, please do not come to class or to campus to turn in work. Instead notify me by email about your absence as soon as practical, so that accommodations can be made. Please note that documentation (a Doctor’s note) for medical excuses is not required. MSU University Health Partners - as part their commitment to maintain patient confidentiality, to encourage more appropriate use of healthcare resources, and to support meaningful dialogue between instructors and students - does not provide such documentation.
+
+#### Course Communication
+
+In the event that the instructor is required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L and Microsoft Teams.
+
+#### Recorded Lectures
+
+Due to the ongoing pandemic and issues stemming from this, all course lectures will be recorded and made available through the course Microsoft Teams page.
 
 
 
