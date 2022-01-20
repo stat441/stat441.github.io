@@ -84,9 +84,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 ##### Weekly Materials
 
-- Suggested Reading:
-  
-- Weekly Notes: 
  
 ##### Class Overview 
 
@@ -102,6 +99,8 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 - Suggested Reading: 
 
 - Weekly Notes:   
+
+- [Quiz 1](https://stat441.github.io/Quiz1/) ([Download RMD](https://raw.githubusercontent.com/stat441/Quiz1/main/Quiz1.Rmd))
 
 ##### Class Overview
 
