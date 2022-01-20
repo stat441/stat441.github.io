@@ -15,9 +15,9 @@
 #### Week Two: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: Ch 1, Ch 2.1 - Ch 2.3
 
-- Weekly Notes:   
+- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture%201.%20Designing%20Studies.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture%201.%20Designing%20Studies.pptx)
 
 - [Quiz 1](https://stat441.github.io/Quiz1/) ([Download RMD](https://raw.githubusercontent.com/stat441/Quiz1/main/Quiz1.Rmd))
 
