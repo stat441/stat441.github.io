@@ -8,7 +8,7 @@
 
 - Wednesday January 19: Course Overview and Class Conversation
 
-- Friday January 21: [Lab 1](https://github.com/stat441/Labs/blob/main/Lab1.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab1.Rmd))
+- Friday January 21: [Lab 1](https://github.com/stat441/Labs/blob/main/Lab1.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab1.Rmd)) Due EOD Wednesday January 26
 
 ---
 
@@ -17,9 +17,9 @@
 ##### Weekly Materials
 - Suggested Reading: Ch 1, Ch 2.1 - Ch 2.3
 
-- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture%201.%20Designing%20Studies.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture%201.%20Designing%20Studies.pptx)
+- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture%201.%20Designing%20Studies.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture%201.%20Designing%20Studies.pptx))
 
-- [Quiz 1](https://stat441.github.io/Quiz1/) ([Download RMD](https://raw.githubusercontent.com/stat441/Quiz1/main/Quiz1.Rmd))
+- [Quiz 1](https://stat441.github.io/Quiz1/) ([Download RMD](https://raw.githubusercontent.com/stat441/Quiz1/main/Quiz1.Rmd)) Due EOD Wednesday 1/26
 
 ##### Class Overview
 
@@ -27,7 +27,7 @@
 
 - Wednesday January 26: 
 
-- Friday January 28: 
+- Friday January 28: Lab 2, Due Wednesday EOD February 2
 
 ---
 
@@ -36,7 +36,9 @@
 ##### Weekly Materials
 - Suggested Reading: 
 
-- Weekly Notes: 
+- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pptx))
+
+- Quiz 2
 
 ##### Class Overview
 
