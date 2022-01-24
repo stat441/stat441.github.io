@@ -34,7 +34,7 @@
 #### Week Three: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: Ch 2.3 + 2.5
 
 - Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pptx))
 
@@ -46,7 +46,7 @@
 
 - Wednesday February 2: 
 
-- Friday February 4:
+- Friday February 4: Lab 3
 
 ---
 
