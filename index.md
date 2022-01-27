@@ -38,7 +38,7 @@
 
 - Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pptx))
 
-- Quiz 2, Due Wednesday EOD Feb 2
+- [Quiz 2](https://github.com/stat441/Quizzes/blob/main/Quiz2.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz2.Rmd)), Due Wednesday EOD Feb 2
 
 ##### Class Overview
 
