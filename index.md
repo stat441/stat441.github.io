@@ -8,7 +8,7 @@
 
 - Wednesday January 19: Course Overview and Class Conversation
 
-- Friday January 21: [Lab 1](https://github.com/stat441/Labs/blob/main/Lab1.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab1.Rmd)) Due EOD Wednesday Jan 26
+- Friday January 21: [Lab 1](https://github.com/stat441/Labs/blob/main/Lab1.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab1.Rmd)) Due EOD Wednesday Jan 26 ([Lab 1 Key](https://github.com/stat441/Labs/blob/main/Lab1_key.pdf))
 
 ---
 
