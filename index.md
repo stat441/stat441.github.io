@@ -53,9 +53,9 @@
 #### Week Four: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: Ch 3.1 - 3.4, Ch 4.1 - 4.2, Ch 8.1 - 8.2
 
-- Weekly Notes: 
+- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture3.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture3.pptx))
 
 ##### Class Overview
 
