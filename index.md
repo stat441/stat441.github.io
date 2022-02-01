@@ -46,7 +46,7 @@
 
 - Wednesday February 2: 
 
-- Friday February 4: Lab 3
+- Friday February 4: [Lab 3](https://github.com/stat441/Labs/blob/main/Lab3.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab3.Rmd)), Due EOD Wednesday Feb 9
 
 ---
 
