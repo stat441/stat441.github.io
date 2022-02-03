@@ -27,7 +27,7 @@
 
 - Wednesday January 26: 
 
-- Friday January 28: [Lab 2](https://github.com/stat441/Labs/blob/main/Lab2.pdf) ([Download RMD](https://github.com/stat441/Labs/blob/main/Lab2.Rmd)), Due Wednesday EOD Feb 2
+- Friday January 28: [Lab 2](https://github.com/stat441/Labs/blob/main/Lab2.pdf) ([Download RMD](https://github.com/stat441/Labs/blob/main/Lab2.Rmd)), Due Wednesday EOD Feb 2 ([RMD Key](https://raw.githubusercontent.com/stat441/Labs/main/Lab2_key.Rmd))
 
 ---
 
