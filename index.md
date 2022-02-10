@@ -63,7 +63,7 @@
 ##### Class Overview
 
 - Monday February 7: 
-- 
+
 - Wednesday February 9: 
 
 - Friday February 11: [Lab 4](https://github.com/stat441/Labs/blob/main/Lab4.md) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab4.Rmd)), Due EOD Wednesday Feb 16
