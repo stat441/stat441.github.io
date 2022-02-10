@@ -74,6 +74,7 @@
 
 ##### Weekly Materials
 - [Quiz 4](https://github.com/stat441/Quizzes/blob/main/Quiz4.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz4.Rmd)), Due Wednesday EOD Feb 16
+- [HW 1](https://github.com/stat441/HW/blob/main/HW1.pdf) ([Download RMD](https://github.com/stat441/HW/blob/main/HW1.Rmd)), Due Wednesday EOD Feb 16
 
 ##### Class Overview
 
