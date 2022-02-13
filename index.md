@@ -89,6 +89,7 @@
 #### Week Six: 
 
 ##### Weekly Materials
+- [Quiz 5](https://github.com/stat441/Quizzes/blob/main/Quiz5.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz5.Rmd)), Due Wednesday EOD Feb 23
 
 
 ##### Class Overview
