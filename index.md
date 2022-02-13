@@ -82,7 +82,7 @@
 
 - Wednesday February 16:
 
-- Friday February 18: 
+- Friday February 18:  [Lab 5](https://github.com/stat441/Labs/blob/main/Lab5.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab5.Rmd)), Due EOD Wednesday Feb 23 
 
 ---
 
