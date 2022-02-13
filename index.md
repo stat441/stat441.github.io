@@ -66,7 +66,7 @@
 
 - Wednesday February 9: 
 
-- Friday February 11: [Lab 4](https://github.com/stat441/Labs/blob/main/Lab4.md) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab4.Rmd)), Due EOD Wednesday Feb 16
+- Friday February 11: [Lab 4](https://github.com/stat441/Labs/blob/main/Lab4.md) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab4.Rmd)), Due EOD Wednesday Feb 16 ([Lab 4 solution](https://github.com/stat441/Labs/blob/main/Lab4_key.md)) ([Lab 4 solution - RMD](https://github.com/stat441/Labs/blob/main/Lab4_key.Rmd))
 
 ---
 
