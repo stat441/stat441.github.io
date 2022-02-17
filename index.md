@@ -36,7 +36,7 @@
 ##### Weekly Materials
 - Suggested Reading: Ch 2.3 + 2.5
 
-- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pptx))
+- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture2.pptx)) ([Annotated Notes](https://github.com/stat441/Lectures/blob/main/Lecture1_annotated.pdf))
 
 - [Quiz 2](https://github.com/stat441/Quizzes/blob/main/Quiz2.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz2.Rmd)), Due Wednesday EOD Feb 2
 
@@ -55,7 +55,7 @@
 ##### Weekly Materials
 - Suggested Reading: Ch 3.1 - 3.4, Ch 4.1 - 4.2, Ch 8.1 - 8.2
 
-- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture3.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture3.pptx))
+- Weekly Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture3.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture3.pptx)) ([Annotated Notes](https://github.com/stat441/Lectures/blob/main/Lecture2_annotated.pdf))
 
 - [Quiz 3](https://github.com/stat441/Quizzes/blob/main/Quiz3.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz3.Rmd)), Due Wednesday EOD Feb 9
 
@@ -90,6 +90,7 @@
 
 ##### Weekly Materials
 - [Quiz 5](https://github.com/stat441/Quizzes/blob/main/Quiz5.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz5.Rmd)), Due Wednesday EOD Feb 23
+- Lecture Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture4.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture4.pptx))
 
 
 ##### Class Overview
@@ -106,8 +107,7 @@
 
 ##### Weekly Materials
 
-- Weekly Notes: 
-
+- Lecture Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture5.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture5.pptx))
 
 ##### Class Overview
 
@@ -115,7 +115,7 @@
 
 - Wednesday March 2:
 
-- Friday March 4: 
+- Friday March 4: Lab 6
 
 ---
 
