@@ -108,6 +108,9 @@
 ##### Weekly Materials
 
 - Lecture Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture5.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture5.pptx))
+- [Quiz 6](https://github.com/stat441/Quizzes/blob/main/Quiz4.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz4.Rmd)), Due Wednesday EOD Feb 16
+- HW 2, Due Wednesday EOD Mar 2
+
 
 ##### Class Overview
 
@@ -148,7 +151,7 @@
 - Monday March 14:  __spring break__
 
 - Wednesday March 16: __spring break__
-- 
+
 - Friday March 18: __spring break__
 
 ---
@@ -197,7 +200,7 @@
 ##### Class Overview
 
 - Monday April 4: 
-- 
+
 - Wednesday April 6:
 
 - Friday April 8: 
