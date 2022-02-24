@@ -108,7 +108,7 @@
 ##### Weekly Materials
 
 - Lecture Notes: [PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture5.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture5.pptx))
-- Quiz 6, Due Wednesday EOD Mar 2
+- [Quiz 6](https://github.com/stat441/Quizzes/blob/main/Quiz6.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz6.Rmd)), Due Wednesday EOD Mar 2
 - [HW 2](https://github.com/stat441/HW/blob/main/HW2.pdf) ([Download RMD](https://github.com/stat441/HW/blob/main/HW2.Rmd)), Due Wednesday EOD Mar 2
 
 
