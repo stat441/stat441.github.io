@@ -126,7 +126,7 @@
 
 ##### Weekly Materials
 
-- Weekly Notes: 
+- [Quiz 7](https://github.com/stat441/Quizzes/blob/main/Quiz7.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz7.Rmd)), Due Wednesday EOD Mar 9
 
 
 ##### Class Overview
