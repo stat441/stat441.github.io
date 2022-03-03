@@ -118,7 +118,7 @@
 
 - Wednesday March 2:
 
-- Friday March 4: Lab 6
+- Friday March 4: [Lab 6](https://github.com/stat441/Labs/blob/main/Lab6.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab6.Rmd)), Due EOD Wednesday March 9 
 
 ---
 
