@@ -137,6 +137,7 @@
 
 - Friday March 11: 
   - [Project 1 Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e3ac339-ba54-49a3-acda-ae55015e9b3a) 
+  - [Lecture 5 Video: F-Statistics](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc45ce3a-52f3-45d3-9da7-ae55016114fa)
 
 ---
 
