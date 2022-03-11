@@ -177,7 +177,7 @@
 ##### Weekly Materials
 - Suggested Reading: 
 
-- Weekly Notes:
+- [Project 1](https://github.com/stat441/Project1/blob/main/Project1-Overview.pdf) Due March 30th
 
 ##### Class Overview
 
