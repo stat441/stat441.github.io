@@ -136,6 +136,7 @@
 - Wednesday March 9:  [Lab 7](https://github.com/stat441/Labs/blob/main/Lab7.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab7.Rmd)), Due EOD Wednesday March 23 
 
 - Friday March 11: 
+  - [Project 1 Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e3ac339-ba54-49a3-acda-ae55015e9b3a) 
 
 ---
 
