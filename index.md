@@ -143,13 +143,6 @@
 
 #### Week Nine: 
 
-##### Weekly Materials
-- Suggested Reading: 
-
-- Weekly Notes:
-
-##### Class Overview
-
 - Monday March 14:  __spring break__
 
 - Wednesday March 16: __spring break__
