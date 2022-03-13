@@ -159,6 +159,9 @@
 - [HW 3](https://github.com/stat441/HW/blob/main/HW3.pdf) ([Download RMD](https://github.com/stat441/HW/blob/main/HW3.Rmd)), Due Wednesday EOD Mar 23
 
 - Weekly Notes: 
+  - Lecture Notes: [Lecture 6: CRD PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture6.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture6.pptx))
+  - Lecture Notes: [Lecture 7: ANCOVA PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture7.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture7.pptx))
+
 
 ##### Class Overview
 
