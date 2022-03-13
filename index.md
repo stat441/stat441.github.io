@@ -162,6 +162,9 @@
 
 ##### Weekly Materials
 
+- [Quiz 8](https://github.com/stat441/Quizzes/blob/main/Quiz8.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Quizzes/main/Quiz8.Rmd)), Due Wednesday EOD Mar 23
+- [HW 3](https://github.com/stat441/HW/blob/main/HW3.pdf) ([Download RMD](https://github.com/stat441/HW/blob/main/HW3.Rmd)), Due Wednesday EOD Mar 23
+
 - Weekly Notes: 
 
 ##### Class Overview
