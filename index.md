@@ -169,7 +169,7 @@
 
 - Wednesday March 23:
 
-- Friday March 25:
+- Friday March 25: [Lab 8](https://github.com/stat441/Labs/blob/main/Lab8.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab8.Rmd)), Due EOD Wednesday March 30 
 
 ---
 
