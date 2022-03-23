@@ -175,9 +175,12 @@
 
 #### Week Eleven: 
 
-##### Weekly Materials
-- Suggested Reading: 
+##### Weekly Materials 
 
+- Weekly Notes: 
+  - Lecture Notes: [Lecture 8: Intro to Factorial Designs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture8.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture8.pptx))
+  
+- No Quiz 
 - [Project 1](https://github.com/stat441/Project1/blob/main/Project1-Overview.pdf) Due March 30th
 
 ##### Class Overview
