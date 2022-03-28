@@ -282,7 +282,7 @@
 
 ##### Class Overview
 
-
+- Wednesday May 11: Final Exam Scheduled 2:00 - 3:50
 
 ---
 
