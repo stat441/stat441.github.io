@@ -133,7 +133,7 @@
 
 - Monday March 7: 
 
-- Wednesday March 9:  [Lab 7](https://github.com/stat441/Labs/blob/main/Lab7.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab7.Rmd)), Due EOD Wednesday March 23 
+- Wednesday March 9:  [Lab 7](https://github.com/stat441/Labs/blob/main/Lab7.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab7.Rmd)), Due EOD Wednesday March 23 ([Key PDF](https://github.com/stat441/Labs/blob/main/Lab7key.pdf)) ([Key RMD](https://github.com/stat441/Labs/blob/main/Lab7key.Rmd))
 
 - Friday March 11: 
   - [Project 1 Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e3ac339-ba54-49a3-acda-ae55015e9b3a) 
@@ -169,7 +169,7 @@
 
 - Wednesday March 23:
 
-- Friday March 25: [Lab 8](https://github.com/stat441/Labs/blob/main/Lab8.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab8.Rmd)), Due EOD Wednesday March 30 
+- Friday March 25: [Lab 8](https://github.com/stat441/Labs/blob/main/Lab8.pdf) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab8.Rmd)), Due EOD Wednesday March 30 ([Key PDF](https://github.com/stat441/Labs/blob/main/Lab8key.pdf)) ([Key RMD](https://github.com/stat441/Labs/blob/main/Lab8key.Rmd))
 
 ---
 
