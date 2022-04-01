@@ -199,7 +199,7 @@
 - Suggested Reading: 
 
 - Weekly Notes: 
-
+  - Lecture Notes: [Lecture 9: Randomized Complete Block Designs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture9.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture9.pptx))
 
 ##### Class Overview
 
