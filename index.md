@@ -200,6 +200,7 @@
 - [Quiz 9 due Wednesday April 6](https://stat441.github.io/Quiz9/)
 - Weekly Notes: 
   - Lecture Notes: [Lecture 9: Randomized Complete Block Designs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture9.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture9.pptx))
+  - Lecture Notes: [Lecture 10: Analyzing Factorial Experiments PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture10.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture10.pptx))
 
 ##### Class Overview
 
