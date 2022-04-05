@@ -283,7 +283,7 @@
 
 ##### Class Overview
 
-- Wednesday May 11: Final Exam Scheduled 2:00 - 3:50
+- Wednesday May 11: Project 2 Due & Project Presentations 2:00 - 3:50
 
 ---
 
