@@ -206,7 +206,7 @@
 
 - Monday April 4: 
 
-- Wednesday April 6: [Lab 9 + HW 4](https://github.com/stat441/Labs/blob/main/Lab8.md) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab9.Rmd)), Due EOD Wednesday April 13
+- Wednesday April 6: [Lab 9 + HW 4](https://github.com/stat441/Labs/blob/main/Lab9.md) ([Download RMD](https://raw.githubusercontent.com/stat441/Labs/main/Lab9.Rmd)), Due EOD Wednesday April 13
 
 - Friday April 8: __No Class, work on Lab 9 / HW 4__
 
