@@ -255,11 +255,11 @@
 
 ##### Class Overview
 
-- Monday April 25:
+- Monday April 25: Take home final exam assigned
 
 - Wednesday April 27:
 
-- Friday April 29: 
+- Friday April 29: Review for in class final exam
 
 ---
 
@@ -269,9 +269,9 @@
 
 ##### Class Overview
 
-- Monday May 2: 
+- Monday May 2: In Class Final Exam, Take Home Final Due
 
-- Wednesday May 4:
+- Wednesday May 4: 
 
 - Friday May 6: 
 
