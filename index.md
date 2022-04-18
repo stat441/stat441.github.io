@@ -255,7 +255,7 @@
 
 - Monday April 25: Take home final exam assigned
 
-- Wednesday April 27:
+- Wednesday April 27: Lab 10 - Helicopters
 
 - Friday April 29: Review for in class final exam
 
