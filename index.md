@@ -231,6 +231,7 @@
 ##### Weekly Materials
 
 - [Quiz 10 due Monday April 25](https://stat441.github.io/Quiz10/)
+- [HW 5 due Monday April 25](https://github.com/stat441/HW/blob/main/HW5.pdf) ([Download RMD](https://github.com/stat441/HW/blob/main/HW5.Rmd)), 
 
 - Weekly Notes: 
  - [Lecture 11: Generalized RCBDs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture11.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture11.pptx))
