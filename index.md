@@ -215,9 +215,6 @@
 #### Week Thirteen: 
 
 ##### Weekly Materials
-- Suggested Reading: 
-
-- Weekly Notes: 
 
 ##### Class Overview
 
@@ -232,10 +229,11 @@
 #### Week Fourteen: 
 
 ##### Weekly Materials
-- Suggested Reading: 
 
 - Weekly Notes: 
-- 
+ - [Lecture 11: Generalized RCBDs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture11.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture11.pptx))
+ - [Lecture 12: Incomplete Block Designs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture12.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture12.pptx))
+ - [Lecture 13: Multiple Blocking Factors PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture13.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture13.pptx))
 ##### Class Overview
 
 - Monday April 18: 
