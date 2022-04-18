@@ -230,6 +230,8 @@
 
 ##### Weekly Materials
 
+- [Quiz 10 due Monday April 25](https://stat441.github.io/Quiz10/)
+
 - Weekly Notes: 
  - [Lecture 11: Generalized RCBDs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture11.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture11.pptx))
  - [Lecture 12: Incomplete Block Designs PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture12.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture12.pptx))
