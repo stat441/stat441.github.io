@@ -256,7 +256,7 @@
 
 ##### Class Overview
 
-- Monday April 25: Take home final exam assigned
+- Monday April 25: [Take home final exam assigned](https://github.com/stat441/finalexam/blob/main/Design_2022.pdf) ([https://github.com/stat441/finalexam/blob/main/Design_2022.Rmd](RMD Source Code))
 
 - Wednesday April 27: Lab 10 - Helicopters
 
