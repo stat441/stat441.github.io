@@ -252,7 +252,7 @@
 ##### Weekly Materials
 - Suggested Reading: 
 
-- Weekly Notes: 
+- Weekly Notes: [Lecture 14: Mixed Models PDF Notes](https://github.com/stat441/Lectures/blob/main/Lecture14.pdf) ([PPT Notes](https://github.com/stat441/Lectures/blob/main/Lecture14.pptx))
 
 ##### Class Overview
 
