@@ -258,7 +258,7 @@
 
 - Monday April 25: [Take home final exam assigned](https://github.com/stat441/finalexam/blob/main/Design_2022.pdf) ([RMD Source Code](https://github.com/stat441/finalexam/blob/main/Design_2022.Rmd))
 
-- Wednesday April 27: Lab 10 - Helicopters
+- Wednesday April 27: [Lab 10 - Helicopters](https://github.com/stat441/Labs/blob/main/Lab10.md) ([RMD Source Code](https://github.com/stat441/Labs/blob/main/Lab10.Rmd))
 
 - Friday April 29: Review for in class final exam
 
@@ -272,9 +272,9 @@
 
 - Monday May 2: In Class Final Exam, Take Home Final Due
 
-- Wednesday May 4: 
+- Wednesday May 4: Mixed Models
 
-- Friday May 6: 
+- Friday May 6: Lab 11
 
 ---
 
