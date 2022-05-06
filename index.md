@@ -274,7 +274,7 @@
 
 - Wednesday May 4: Mixed Models
 
-- Friday May 6: Lab 11
+- Friday May 6: [Cupcake Mixed Models](https://github.com/stat441/cupcakes/blob/main/Cupcakes.pdf) ([https://github.com/stat441/cupcakes/blob/main/Cupcakes.Rmd](https://github.com/stat441/cupcakes/blob/main/Cupcakes.Rmd))
 
 ---
 
