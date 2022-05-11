@@ -284,7 +284,7 @@
 
 ##### Class Overview
 
-- Wednesday May 11: Project 2 Due & Project Presentations 2:00 - 3:50
+- Wednesday May 11: Project 2 Due & Project Presentations 2:00 - 3:50 ([Summary of Helicopter Data](https://github.com/stat441/helicopter/blob/main/helicopteranalysis.md))
 
 ---
 
